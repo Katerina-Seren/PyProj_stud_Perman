@@ -1,1 +1,5 @@
-print ('Hello, student SGUGiT!')
+print('Perman Ekaterina')
+print('Information systems and technologies')
+print('2')
+print('I-y')
+print('liuboff@icloud.com')
